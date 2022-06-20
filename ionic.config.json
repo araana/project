@@ -1,0 +1,7 @@
+{
+  "name": "Food deliveries",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}

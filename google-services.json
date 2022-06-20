@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "63836845885",
+    "firebase_url": "https://food-delive.firebaseio.com",
+    "project_id": "food-delive",
+    "storage_bucket": "food-delive.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63836845885:android:d3564f81543ea2a49a3754",
+        "android_client_info": {
+          "package_name": "io.ionic.starter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63836845885-cdb38pp3d29pdlnsddctvas1941klt7r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvFC4UzJwgSM8gmT4OpJwHe-QlyqqZFbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63836845885-cdb38pp3d29pdlnsddctvas1941klt7r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "63836845885-agjsri1hg9dvh4saonbbf9nd3b47loj7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.ionic.starter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
